@@ -4,13 +4,25 @@ Nimi: Deniss
 
 Grupp: LOGITpv24
 
-See repositoorium sisaldab kursuse materjale ja praktilisi töid.
+See repositoorium sisaldab TTHK kursuse "IT korralduse alused" materjale ja praktilisi töid.
 
 ## Teemad
 
-- [Teema 1: ITIL](teema1-itil/)
-- [Teema 2: Protsessid](teema2-protsessid/)
-- [Teema 3: Taristu](teema3-taristu/)
-- [Teema 4: Lean](teema4-lean/)
-- [Teema 5: Projektijuhtimine](teema5-projekt/)
-- [Kokkuvõte](kokkuvote/)
+* Teema 1: ITIL
+* Teema 2: Protsessid
+* Teema 3: Taristu
+* Teema 4: Lean
+* Teema 5: Projektijuhtimine
+* Kokkuvõte
+
+## Kursuse eesmärk
+
+Kursuse eesmärk on õppida IT teenuste haldamist, protsesside juhtimist, IT taristut, Lean metoodikat ning projektijuhtimist.
+
+## Kasutatud tööriistad
+
+* Git
+* GitHub
+* Markdown
+* ITIL
+* Lean
